@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Kowalski‘s Home",
     "description": "",
-    "home_page_url": "https://Kowalski.github.io",
-    "feed_url": "https://Kowalski.github.io/feed.json",
+    "home_page_url": "https://kowosiky.github.io/kowalski.github.io",
+    "feed_url": "https://kowosiky.github.io/kowalski.github.io/feed.json",
     "user_comment": "",
     "author": {
         "name": "Kowalski"
     },
     "items": [
         {
-            "id": "https://Kowalski.github.io/ce-shi-ye-mian.html",
-            "url": "https://Kowalski.github.io/ce-shi-ye-mian.html",
+            "id": "https://kowosiky.github.io/kowalski.github.io/ce-shi-ye-mian.html",
+            "url": "https://kowosiky.github.io/kowalski.github.io/ce-shi-ye-mian.html",
             "title": "测试页面",
             "summary": "这是一个测试页面",
             "content_html": "<h2 id=\"这是一个测试页面\">这是一个测试页面</h2>\n",

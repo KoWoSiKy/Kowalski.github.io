@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://Kowalski.github.io/sitemap.xml
+Sitemap: https://kowosiky.github.io/kowalski.github.io/sitemap.xml

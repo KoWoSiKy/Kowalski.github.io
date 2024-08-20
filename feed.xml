@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Kowalski‘s Home</title>
-    <link href="https://Kowalski.github.io/feed.xml" rel="self" />
-    <link href="https://Kowalski.github.io" />
+    <link href="https://kowosiky.github.io/kowalski.github.io/feed.xml" rel="self" />
+    <link href="https://kowosiky.github.io/kowalski.github.io" />
     <updated>2024-08-20T14:48:20+08:00</updated>
     <author>
         <name>Kowalski</name>
     </author>
-    <id>https://Kowalski.github.io</id>
+    <id>https://kowosiky.github.io/kowalski.github.io</id>
 
     <entry>
         <title>测试页面</title>
         <author>
             <name>Kowalski</name>
         </author>
-        <link href="https://Kowalski.github.io/ce-shi-ye-mian.html"/>
-        <id>https://Kowalski.github.io/ce-shi-ye-mian.html</id>
+        <link href="https://kowosiky.github.io/kowalski.github.io/ce-shi-ye-mian.html"/>
+        <id>https://kowosiky.github.io/kowalski.github.io/ce-shi-ye-mian.html</id>
 
         <updated>2024-08-20T11:58:43+08:00</updated>
             <summary>
