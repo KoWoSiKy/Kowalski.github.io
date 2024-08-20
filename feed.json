@@ -15,6 +15,7 @@
             "title": "Pulii+Github 零代码创建Blog",
             "summary": "一、注册Github并创建Public仓库 二、下载并配置Pulii",
             "content_html": "<h2 id=\"一、注册github并创建public仓库\">一、注册Github并创建Public仓库</h2>\n<h2 id=\"二、下载并配置pulii\">二、下载并配置Pulii</h2>\n",
+            "image": "https://kowosiky.github.io/kowalski.github.io/media/posts/2/Shi-Guang_Ji-Jian-Bi-Zhi_d02197ff9b134831bb58fb0ebb1203ee.jpg",
             "author": {
                 "name": "Kowalski"
             },
@@ -22,7 +23,7 @@
                    "小技术"
             ],
             "date_published": "2024-08-20T18:08:52+08:00",
-            "date_modified": "2024-08-20T18:09:49+08:00"
+            "date_modified": "2024-08-20T18:13:42+08:00"
         },
         {
             "id": "https://kowosiky.github.io/kowalski.github.io/ce-shi-ye-mian.html",

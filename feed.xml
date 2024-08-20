@@ -3,7 +3,7 @@
     <title>Kowalski‘s Home</title>
     <link href="https://kowosiky.github.io/kowalski.github.io/feed.xml" rel="self" />
     <link href="https://kowosiky.github.io/kowalski.github.io" />
-    <updated>2024-08-20T18:09:49+08:00</updated>
+    <updated>2024-08-20T18:13:42+08:00</updated>
     <author>
         <name>Kowalski</name>
     </author>
@@ -16,16 +16,19 @@
         </author>
         <link href="https://kowosiky.github.io/kowalski.github.io/puliigithub-ling-dai-ma-chuang-jian-blog.html"/>
         <id>https://kowosiky.github.io/kowalski.github.io/puliigithub-ling-dai-ma-chuang-jian-blog.html</id>
+        <media:content url="https://kowosiky.github.io/kowalski.github.io/media/posts/2/Shi-Guang_Ji-Jian-Bi-Zhi_d02197ff9b134831bb58fb0ebb1203ee.jpg" medium="image" />
             <category term="小技术"/>
 
         <updated>2024-08-20T18:08:52+08:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://kowosiky.github.io/kowalski.github.io/media/posts/2/Shi-Guang_Ji-Jian-Bi-Zhi_d02197ff9b134831bb58fb0ebb1203ee.jpg" alt="" />
                     一、注册Github并创建Public仓库 二、下载并配置Pulii
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://kowosiky.github.io/kowalski.github.io/media/posts/2/Shi-Guang_Ji-Jian-Bi-Zhi_d02197ff9b134831bb58fb0ebb1203ee.jpg" class="type:primaryImage" alt="" /></p>
                 <h2 id="一、注册github并创建public仓库">一、注册Github并创建Public仓库</h2>
 <h2 id="二、下载并配置pulii">二、下载并配置Pulii</h2>
 
