@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://kowosiky.github.io/kowalski.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="http://looogcat.us.kg/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://kowosiky.github.io/kowalski.github.io/</loc>
+<loc>http://looogcat.us.kg/</loc>
 </url>
 <url>
-<loc>https://kowosiky.github.io/kowalski.github.io/ce-shi-ye-mian.html</loc>
+<loc>http://looogcat.us.kg/ce-shi-ye-mian.html</loc>
 <lastmod>2024-08-20T14:48:20+08:00</lastmod>
 </url>
 <url>
-<loc>https://kowosiky.github.io/kowalski.github.io/puliigithub-ling-dai-ma-chuang-jian-blog.html</loc>
-<lastmod>2024-08-20T18:13:42+08:00</lastmod>
+<loc>http://looogcat.us.kg/puliigithub-ling-dai-ma-chuang-jian-blog.html</loc>
+<lastmod>2024-08-21T22:36:54+08:00</lastmod>
 <image:image>
-<image:loc>https://kowosiky.github.io/kowalski.github.io/media/posts/2/Shi-Guang_Ji-Jian-Bi-Zhi_d02197ff9b134831bb58fb0ebb1203ee.jpg</image:loc>
+<image:loc>http://looogcat.us.kg/media/posts/2/Shi-Guang_Ji-Jian-Bi-Zhi_d02197ff9b134831bb58fb0ebb1203ee.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>

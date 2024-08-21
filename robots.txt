@@ -6,4 +6,4 @@ User-agent: CCBot
 Disallow: /
 User-agent: *
 Disallow:
-Sitemap: https://kowosiky.github.io/kowalski.github.io/sitemap.xml
+Sitemap: http://looogcat.us.kg/sitemap.xml
